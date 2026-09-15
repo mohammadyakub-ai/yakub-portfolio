@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yakub-portfolio.netlify.app/sitemap.xml
+Sitemap: https://mohammadyakub-ai.github.io/yakub-portfolio/sitemap.xml
